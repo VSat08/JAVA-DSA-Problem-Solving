@@ -1,4 +1,4 @@
-package Fundamentals.Recursion;
+package Recursion;
 
 public class TowerOfHanoi {
     public static void towerOfHanoi(int n, String source, String Helper, String Destination) {

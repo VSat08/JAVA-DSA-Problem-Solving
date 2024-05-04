@@ -1,4 +1,4 @@
-package Fundamentals.Recursion;
+package Recursion;
 
 // print x^n(stack heigh =n)
 

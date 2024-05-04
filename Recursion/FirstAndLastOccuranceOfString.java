@@ -1,4 +1,4 @@
-package Fundamentals.Recursion;
+package Recursion;
 
 public class FirstAndLastOccuranceOfString {
     public static int first = -1;

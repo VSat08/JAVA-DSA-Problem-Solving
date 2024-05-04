@@ -1,4 +1,4 @@
-package Fundamentals.Recursion;
+package Recursion;
 
 public class SubsequenceString {
     public static void printSubsequenceString(String str, int index, String newStr) {

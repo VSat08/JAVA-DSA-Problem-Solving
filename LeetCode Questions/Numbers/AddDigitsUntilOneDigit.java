@@ -24,7 +24,6 @@ Output: 0
  
 
 Constraints:
-
 0 <= num <= 231 - 1
  * 
  */

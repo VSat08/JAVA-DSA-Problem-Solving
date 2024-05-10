@@ -23,12 +23,14 @@ Input: num = 0
 Output: 0
  
 
+
 Constraints:
 0 <= num <= 231 - 1
  * 
  */
 
 
+ 
 
 public class AddDigitsUntilOneDigit {
     public static int addDigits(int num) {
